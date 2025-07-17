@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,30&height=180&section=header&text=Sebastián%20Ramos&fontSize=60&animation=fadeIn&desc=Welcome%20to%20my%20GitHub%20Profile&descSize=25&descAlignY=75"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,17&height=240&section=header&text=Sebastián%20Ramos&fontSize=60&animation=fadeIn&desc=Welcome%20to%20my%20GitHub%20Profile&descSize=25&descAlignY=75"/>
 </p>
 
 <div align="center">
@@ -30,10 +30,20 @@
   <img src="https://img.shields.io/badge/-ESP32-black?style=flat-square&logo=esphome" />
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/-phpMyAdmin-6C78AF?style=flat-square&logo=phpmyadmin&logoColor=white" />
   <img src="https://img.shields.io/badge/-Tkinter-FFB400?style=flat-square" />
   <img src="https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy" />
   <img src="https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square&logo=gnuplot" />
   <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-Digital%20Ocean-0080FF?style=flat-square&logo=digitalocean&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Ubuntu%20Server-333333?style=flat-square&logo=ubuntu&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Observium-4E5D94?style=flat-square" />
+  <img src="https://img.shields.io/badge/-FortiAnalyzer-E12026?style=flat-square" />
+  <img src="https://img.shields.io/badge/-VirtualBox-183A61?style=flat-square&logo=virtualbox&logoColor=white" />
 </p>
 
 <p align="center">
@@ -61,5 +71,5 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,30&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4C734A,75A563,B1C98D&height=100&section=footer"/>
 </p>
