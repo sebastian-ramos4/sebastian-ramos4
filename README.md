@@ -23,9 +23,13 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python" />
+  <img src="https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c" />
   <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B" />
+  <img src="https://img.shields.io/badge/-MATLAB-orange?style=flat-square&logo=Mathworks" />
   <img src="https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" />
   <img src="https://img.shields.io/badge/-ESP32-black?style=flat-square&logo=esphome" />
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/-Tkinter-FFB400?style=flat-square" />
   <img src="https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy" />
   <img src="https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square&logo=gnuplot" />
