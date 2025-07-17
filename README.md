@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,30&height=180&section=header&text=PALR-DEV&fontSize=60&animation=fadeIn&desc=Welcome%20to%20my%20GitHub%20Profile&descSize=25&descAlignY=75"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,30&height=180&section=header&text= sebastian-ramos4&fontSize=60&animation=fadeIn&desc=Welcome%20to%20my%20GitHub%20Profile&descSize=25&descAlignY=75"/>
 </p>
 
 <div align="center">
@@ -63,7 +63,7 @@
 
 <p align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=PALR-DEV&title_color=3498db&text_color=2ecc71&icon_color=3498db&bg_color=00000000&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PALR-DEV&theme=github_dark&layout=compact&hide_border=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebastian-ramos4&theme=github_dark&layout=compact&hide_border=true"/>
 </p>
 
 ---
@@ -71,7 +71,7 @@
 ### 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=palr-dev&theme=github-compact&custom_title=PALR-DEV%20Activity%20Graph&hide_border=true" alt="activity graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=palr-dev&theme=github-compact&custom_title=sebastian-ramos4%20Activity%20Graph&hide_border=true" alt="activity graph"/>
 </p>
 
 <p align="center">
