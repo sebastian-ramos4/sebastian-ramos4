@@ -10,7 +10,7 @@
 
 ### 🚀 About Me
 
-- 🎓 Electrical Engineering student focused on embedded systems and signal processing  
+- 🎓 Electrical Engineering student focused on embedded systems and radio frequency  
 - ⚙️ Interested in bioelectronics, RF systems, and software-defined radio  
 - 💡 Passionate about building real-time interfaces with Python and microcontrollers (ESP32)  
 - 🔧 Experience with Python, C++, threading, Tkinter, and serial communication  
