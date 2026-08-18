@@ -1,107 +1,295 @@
-# Hi, I'm Sebastián 👋
+<div align="center">
 
-### Electrical Engineering | RF & Microwave | Embedded Systems
+# Sebastián A. Ramos Flores
 
-I'm an Electrical Engineering graduate student at the **University of Puerto Rico at Mayagüez (UPRM)** with interests in **RF and microwave systems, embedded electronics, hardware development, and engineering validation**.
+### RF & Microwave · Embedded Systems · Electronics
 
-I enjoy working at the intersection of **hardware and software**, taking systems from design and simulation through prototyping, firmware integration, measurement, debugging, and validation.
+**M.S. Electrical Engineering Student @ University of Puerto Rico at Mayagüez**
+
+<br>
+
+![RF & Microwave](https://img.shields.io/badge/RF_%26_MICROWAVE-0A66C2?style=for-the-badge)
+![Embedded Systems](https://img.shields.io/badge/EMBEDDED_SYSTEMS-111111?style=for-the-badge)
+![Hardware](https://img.shields.io/badge/HARDWARE-555555?style=for-the-badge)
+![Test & Validation](https://img.shields.io/badge/TEST_%26_VALIDATION-0A66C2?style=for-the-badge)
+
+<br>
+
+### `Design → Prototype → Test → Validate`
+
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sebastián_Ramos-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sebasti%C3%A1n-a-ramos-flores/)
+[![GitHub](https://img.shields.io/badge/GitHub-sebastian--ramos4-111111?style=flat-square&logo=github&logoColor=white)](https://github.com/sebastian-ramos4)
+
+</div>
 
 ---
 
-## ⚡ Engineering Focus
+## ⚡ About Me
+
+I'm an Electrical Engineering graduate student at the **University of Puerto Rico at Mayagüez (UPRM)** focused on the intersection of **RF and microwave systems, embedded electronics, hardware development, and engineering validation**.
+
+I enjoy taking engineering systems through the complete development cycle — from **simulation and circuit design** to **prototyping, firmware integration, instrumentation, debugging, measurement, and validation**.
+
+My interests span both hardware and software, with a particular focus on building and understanding complete physical systems rather than treating firmware, electronics, and RF as isolated disciplines.
+
+---
+
+## 🔬 Engineering Focus
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
 
 ### 📡 RF & Microwave
-- RF and microwave circuit design
-- Transmission lines and impedance matching
-- Antenna and electromagnetic simulation
-- Software-defined radio and RF sensing
-- RF system analysis and characterization
+
+- RF & microwave circuit design
+- Transmission lines
+- Impedance matching
+- Electromagnetic simulation
+- Antenna systems
+- RF sensing
+- Software-defined radio
+- System characterization
+
+</td>
+
+<td width="50%" valign="top">
 
 ### ⚙️ Embedded Systems
-- Microcontroller-based system development
-- Embedded C/C++ firmware
-- Sensor and peripheral integration
-- Serial communication and hardware interfaces
-- Real-time monitoring and control
 
-### 🔌 Electronics & Hardware
-- Circuit prototyping and debugging
-- PCB design, assembly, and validation
-- Power and battery-powered systems
+- Microcontroller-based systems
+- Embedded C/C++
+- ESP32 development
+- Sensor integration
+- Serial communication
+- Hardware interfaces
+- Real-time monitoring
+- Control systems
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 🔌 Hardware Development
+
+- PCB design & validation
+- Circuit prototyping
+- Hardware debugging
+- Power electronics
+- Battery-powered systems
 - Hardware/firmware integration
-- 3D-printed enclosures and mechanical prototyping
-- Prototype development and laboratory testing
+- 3D printing
+- Mechanical prototyping
+
+</td>
+
+<td width="50%" valign="top">
 
 ### 📊 Test & Measurement
-- Oscilloscope-based characterization
-- Electrical and power measurements
-- Instrument automation and data acquisition
-- Experimental validation
+
+- Oscilloscope characterization
+- Electrical measurements
+- Power characterization
+- Instrument automation
+- Data acquisition
 - Engineering data analysis
+- Experimental testing
+- System validation
+
+</td>
+
+</tr>
+</table>
+
+---
+
+## 🛠️ Engineering Toolbox
+
+<div align="center">
+
+### RF · Simulation · Electronics
+
+![Keysight ADS](https://img.shields.io/badge/Keysight_ADS-111111?style=flat-square)
+![Ansys HFSS](https://img.shields.io/badge/Ansys_HFSS-111111?style=flat-square)
+![LTspice](https://img.shields.io/badge/LTspice-111111?style=flat-square)
+![Altium Designer](https://img.shields.io/badge/Altium_Designer-111111?style=flat-square)
+![KiCad](https://img.shields.io/badge/KiCad-111111?style=flat-square&logo=kicad&logoColor=white)
+![SDR](https://img.shields.io/badge/Software_Defined_Radio-111111?style=flat-square)
+
+### Embedded · Programming
+
+![ESP32](https://img.shields.io/badge/ESP32-111111?style=flat-square&logo=espressif&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-111111?style=flat-square&logo=arduino&logoColor=white)
+![MSP430](https://img.shields.io/badge/MSP430-111111?style=flat-square)
+![C](https://img.shields.io/badge/C-111111?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-111111?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-111111?style=flat-square)
+
+### Hardware · Prototyping
+
+![PCB Design](https://img.shields.io/badge/PCB_Design-111111?style=flat-square)
+![3D Printing](https://img.shields.io/badge/3D_Printing-111111?style=flat-square)
+![Electronics](https://img.shields.io/badge/Electronics-111111?style=flat-square)
+![Instrumentation](https://img.shields.io/badge/Instrumentation-111111?style=flat-square)
+![Prototyping](https://img.shields.io/badge/Prototyping-111111?style=flat-square)
+
+### Development
+
+![Git](https://img.shields.io/badge/Git-111111?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-111111?style=flat-square&logo=linux&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-111111?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Arduino IDE](https://img.shields.io/badge/Arduino_IDE-111111?style=flat-square&logo=arduino&logoColor=white)
+
+</div>
 
 ---
 
 ## 💼 Professional & Research Experience
 
-My engineering experience spans **embedded systems, RF technologies, electronics development, hardware validation, and technical support** through professional and research environments including:
+<table>
 
-- **INSU Health Design**
-- **Center for Advanced Radio Sciences and Engineering**
-- **Puerto Rico Seismic Network**
+<tr>
+<td width="30%">
 
-> Much of my recent engineering work has been developed in professional environments and involves proprietary systems. Because of confidentiality and intellectual property restrictions, that work is not represented in my public repositories.
+### INSU Health Design
+
+</td>
+
+<td width="70%">
+
+`Embedded Systems` · `Electronics` · `Hardware Development` · `Validation`
+
+Engineering work involving hardware development, embedded electronics, PCB systems, firmware integration, prototyping, testing, and validation.
+
+</td>
+</tr>
+
+<tr>
+<td width="30%">
+
+### Center for Advanced Radio Sciences and Engineering
+
+</td>
+
+<td width="70%">
+
+`RF Systems` · `Research` · `Sensing` · `Signal Acquisition`
+
+Research and engineering experience involving radio-frequency technologies, sensing systems, experimentation, and technical development.
+
+</td>
+</tr>
+
+<tr>
+<td width="30%">
+
+### Puerto Rico Seismic Network
+
+</td>
+
+<td width="70%">
+
+`IT Infrastructure` · `Systems` · `Technical Support`
+
+Technical experience supporting users, computer systems, networking infrastructure, and operational technology environments.
+
+</td>
+</tr>
+
+</table>
+
+> **Professional Work & Confidentiality**
+>
+> Much of my recent engineering work has been developed in professional environments involving proprietary hardware, firmware, systems, and intellectual property. Because of confidentiality restrictions, these projects are not represented in my public repositories.
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🚀 Public Portfolio
 
-### Languages
+My current public repositories primarily represent earlier programming and academic work.
 
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-Engineering-orange?style=flat-square)
+My recent engineering experience has increasingly focused on professional **RF, embedded, electronics, hardware, and validation projects**, many of which cannot be published publicly.
 
-### Embedded Platforms
-
-![ESP32](https://img.shields.io/badge/ESP32-000000?style=flat-square&logo=espressif&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=arduino&logoColor=white)
-![MSP430](https://img.shields.io/badge/MSP430-Texas_Instruments-CC0000?style=flat-square)
-
-### Simulation & Design
-
-![Keysight ADS](https://img.shields.io/badge/Keysight_ADS-RF%20%26%20Microwave-EE1B2D?style=flat-square)
-![Ansys HFSS](https://img.shields.io/badge/Ansys_HFSS-EM_Simulation-FFB71B?style=flat-square)
-![LTspice](https://img.shields.io/badge/LTspice-Circuit_Simulation-A51C30?style=flat-square)
-![SDR](https://img.shields.io/badge/Software_Defined_Radio-RF-6A5ACD?style=flat-square)
-
-### Hardware & Prototyping
-
-![Altium Designer](https://img.shields.io/badge/Altium_Designer-A5915F?style=flat-square)
-![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=flat-square&logo=kicad&logoColor=white)
-![3D Printing](https://img.shields.io/badge/3D_Printing-Prototyping-2496ED?style=flat-square)
-
-### Development Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Arduino IDE](https://img.shields.io/badge/Arduino_IDE-00878F?style=flat-square&logo=arduino&logoColor=white)
+I'm gradually expanding this profile with independent projects that better represent my current engineering interests and technical direction.
 
 ---
 
-## 🚀 Public Work
+## 🧭 Currently
 
-My current public repositories include earlier programming and engineering projects.
+<table>
 
-Most of my recent development has been completed as part of professional engineering work and cannot be published publicly. I'm gradually expanding this profile with independent projects that better represent my current work in **RF, embedded systems, electronics, and hardware development**.
+<tr>
+<td>📡 <b>Focused on</b></td>
+<td>
+
+`RF & Microwave` · `Embedded Systems` · `Electronics`
+
+</td>
+</tr>
+
+<tr>
+<td>🔬 <b>Exploring</b></td>
+<td>
+
+`RF Sensing` · `SDR` · `Instrumentation` · `Measurement Automation`
+
+</td>
+</tr>
+
+<tr>
+<td>🛠️ <b>Engineering</b></td>
+<td>
+
+`Design` → `Prototype` → `Integrate` → `Measure` → `Validate`
+
+</td>
+</tr>
+
+<tr>
+<td>🚀 <b>Next</b></td>
+<td>
+
+Expanding my public engineering portfolio with independent RF, embedded, and hardware projects.
+
+</td>
+</tr>
+
+</table>
 
 ---
 
-## 🔭 Currently
+## 🧠 Engineering Philosophy
 
-```text
-📡  Focus        RF & Microwave • Embedded Systems • Electronics
-🔬  Exploring    RF Sensing • SDR • Instrumentation
-🛠️  Building     Independent Engineering Projects
-📚  Learning     Advanced RF • Embedded Systems • Hardware Design
+> I enjoy understanding how complete systems work — from the electromagnetic and circuit level to firmware, instrumentation, data acquisition, and final system validation.
+
+Engineering, for me, is not just about making something work.
+
+It's about understanding **why it works, how well it works, where it fails, and how to make it better.**
+
+---
+
+## 🤝 Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sebastián_A._Ramos_Flores-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sebasti%C3%A1n-a-ramos-flores/)
+
+[![GitHub](https://img.shields.io/badge/GitHub-sebastian--ramos4-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sebastian-ramos4)
+
+<br>
+
+### `RF • EMBEDDED • HARDWARE`
+
+<sub>
+Design → Prototype → Test → Validate
+</sub>
+
+</div>
